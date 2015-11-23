@@ -7,3 +7,5 @@ link to the etherpad
 we will learn not to do it anymore
 
 please write the good commit message
+
+edit will help you version
