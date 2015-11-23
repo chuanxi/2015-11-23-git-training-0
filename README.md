@@ -22,3 +22,6 @@ make sure they begin and end with a new line
     -bullet 3
 
 1. item 2
+
+
+Vincenzo is adding a line.
